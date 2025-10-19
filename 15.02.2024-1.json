@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Parker",
+    "age": 59,
+    "address": {
+        "street": "Mariah Park",
+        "city": "New Erinfort",
+        "state": "Florida",
+        "zip": "18952"
+    },
+    "contact": {
+        "phone": "+1-894-421-8393",
+        "servicePhone": "800159789"
+    },
+    "birthday": "1966-10-10",
+    "ip": "43.220.111.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence than yet be. Natural south first fund much remember exist. Know word others world government generation.",
+        "bio": "Day administration point would phone. Who huge detail change. Structure military sea camera week response.\nFriend partner owner have better. This success record. Realize figure in behind."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
