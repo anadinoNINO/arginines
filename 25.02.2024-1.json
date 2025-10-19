@@ -1,0 +1,25 @@
+{
+    "name": "Laura Mccoy",
+    "age": 82,
+    "address": {
+        "street": "Clinton Point",
+        "city": "New Elizabeth",
+        "state": "West Virginia",
+        "zip": "40242"
+    },
+    "contact": {
+        "phone": "+1-329-728-0632x475",
+        "servicePhone": "800231432"
+    },
+    "birthday": "1943-08-08",
+    "ip": "221.212.24.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Station serve seem able particular attack decide. If represent idea language our.\nMight another various today happy team already. Operation collection lawyer describe.",
+        "bio": "Population building personal speak miss either assume. Hotel mouth stop service middle popular network. You enter management least computer."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
