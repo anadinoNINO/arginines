@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Weiss",
+    "age": 93,
+    "address": {
+        "street": "Peters Valleys",
+        "city": "New Michaelmouth",
+        "state": "Georgia",
+        "zip": "96368"
+    },
+    "contact": {
+        "phone": "001-804-784-2963x12059",
+        "servicePhone": "800257602"
+    },
+    "birthday": "1932-24-06",
+    "ip": "71.59.47.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Land goal minute. Popular investment argue enjoy large.\nMoney prevent coach. Medical sound thus notice suddenly better.",
+        "bio": "Use relate owner Mrs anything budget environment phone. Seek that somebody hit floor half.\nQuestion few theory dog sister news become whom. Hotel knowledge item."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
