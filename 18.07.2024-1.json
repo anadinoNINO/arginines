@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Shepard",
+    "age": 82,
+    "address": {
+        "street": "Martinez Fork",
+        "city": "Tiffanyhaven",
+        "state": "Virginia",
+        "zip": "37127"
+    },
+    "contact": {
+        "phone": "433.335.8995x6056",
+        "servicePhone": "800711170"
+    },
+    "birthday": "1943-17-07",
+    "ip": "85.145.206.222",
+    "foo": "bar",
+    "profile": {
+        "about": "True the Democrat doctor various often. Evening five life agent. Boy unit impact nearly.",
+        "bio": "Young pull difference girl program. Detail everybody will style painting law. Them home goal show for apply available color.\nDoor he down finally he how perhaps. Word war source read quality."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
