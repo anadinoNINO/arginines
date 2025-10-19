@@ -1,0 +1,25 @@
+{
+    "name": "Angela Copeland",
+    "age": 104,
+    "address": {
+        "street": "Cordova Crossing",
+        "city": "New Raymond",
+        "state": "Illinois",
+        "zip": "84185"
+    },
+    "contact": {
+        "phone": "910.828.0224x3415",
+        "servicePhone": "800426376"
+    },
+    "birthday": "1921-28-09",
+    "ip": "150.145.135.182",
+    "foo": "bar",
+    "profile": {
+        "about": "With into provide race total water accept. Gas against power car lawyer piece. Trouble manager nor. Employee story huge across reason.\nOther special several sense. Sort focus head.",
+        "bio": "Economic special north far receive note so. With couple next food reach."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
