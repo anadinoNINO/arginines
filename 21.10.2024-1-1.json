@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Jones",
+    "age": 32,
+    "address": {
+        "street": "Daniel Rest",
+        "city": "East Martinport",
+        "state": "New York",
+        "zip": "94705"
+    },
+    "contact": {
+        "phone": "748.381.0129x6809",
+        "servicePhone": "800735073"
+    },
+    "birthday": "1993-01-05",
+    "ip": "37.192.129.157",
+    "foo": "bar",
+    "profile": {
+        "about": "One everyone reality themselves power time. Dinner leader detail tough drive country.",
+        "bio": "Actually than job visit believe maybe. Look cause small color because site.\nLanguage much person recognize wonder no. Information wear story statement only impact type."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
